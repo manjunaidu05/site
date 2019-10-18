@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 90px;
+  color: #66BFBF;
+  margin: 0 auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  font-size: 50px;
+  color: #66BFBF;
+  margin: 0 auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+
+h3 {
+  font-size: 50px;
+  color: #66BFBF;
+  margin: 0 auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+  color: #66BFBF;
+}
+
+.top-container {
+  background-color: #ecfcff;
+  width: auto;
+  height: auto;
+  position: relative;
+  padding: 100px;
+  font-size: 30px;
+}
+
+.bottom-container {
+  font-size: 20px;
+    width: auto;
+  height: auto;
+  display: inline-block;
+}
+
+.middle-container {
+  font-size: 30px;
+  width: auto;
+  height: auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.Digital {
+  text-decoration: underline;
+}
+
+.pic {
+  height: 35%;
+  width: 35%;
+  border-radius: 50%;
+}
+
+.data {
+  height: 35%;
+  width: 35%;
+}
+.btn{
+  font-size: 20px;
+  font-weight: bold;
+}
+.social-links{
+  position: absolute;
+  left: 10px;
+  top: auto;
+}
+.copyright{
+  position: absolute;
+  right: 10px;
+}
